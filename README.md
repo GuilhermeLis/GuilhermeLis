@@ -74,19 +74,3 @@
 
 <br/>
 
-## Coding Activity
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitsu325&show_icons=true&theme=dracula" alt="Mitsu325's github stats" />
-</p>
-
-<br/>
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/Mitsu325/Mitsu325" alt="Visitors badge" />
-   </a>
-</p>
-
