@@ -72,4 +72,4 @@
 
 ## My stats
 
-[![Guilherme Lisboa](https://github-readme-stats.vercel.app/api?username=guilhermelis)]
+[![Guilherme Lisboa](https://github-readme-stats.vercel.app/api?username=guilhermelis&theme=dark)]
