@@ -4,9 +4,9 @@
 
 ### Welcome to my page!
 <p>
-  I'm Patricia, Fullstack developer from 
+  I'm Guilherme, Fullstack developer from 
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" alt="Japan" />
-  <b>Japan</b>, currently living in
+  <b>Brazil</b>, currently living in
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>.
 </p>
