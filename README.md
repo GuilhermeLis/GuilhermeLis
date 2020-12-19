@@ -5,7 +5,7 @@
 ### Welcome to my page!
 <p>
   I'm Guilherme, Fullstack developer from 
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" alt="Japan" />
+  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>, currently living in
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>.
@@ -19,11 +19,9 @@
 
 - 👩🏻‍💻 I’m currently working on something cool :wink:;
 
-- 🌱 I’m currently learning Algorithm in C Language, Angular; 
+- 🌱 I’m currently learning Reactjs/ React Native; 
 
 - 💬 Ask me about anything, I am happy to help;
-
-- 🏆 My favorite challenge is CSS 30 days;
 
 ### Where to find me:
 
