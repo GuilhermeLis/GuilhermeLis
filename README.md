@@ -70,7 +70,7 @@
 
 <br/>
 
-## My activeties 
+## My activities
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=guilhermelis&theme=radical" alt="stats"/>
 
