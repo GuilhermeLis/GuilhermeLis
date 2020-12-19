@@ -72,9 +72,7 @@
 
 ## My stats
 
-![Guilherme Lisboa](https://github-readme-stats.vercel.app/api?username=guilhermelis&theme=radical)
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=guilhermelis&theme=radical" alt="stats"/>
 
-## Most used languange
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelis&layout=compact&theme=radical)
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelis&layout=compact&theme=radical" alt="languages"/>
 
