@@ -70,4 +70,6 @@
 
 <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guilhermelis)]
+## My stats
+
+[![Guilherme Lisboa](https://github-readme-stats.vercel.app/api?username=guilhermelis)]
