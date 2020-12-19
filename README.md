@@ -9,24 +9,6 @@
 
 <br/>
 
-### Talking about Personal Stuffs
-
-- 👩🏻‍🚀 I'm cadet at 42SP;
-
-- 👩🏻‍💻 I’m currently working on something cool :wink:;
-
-- 🌱 I’m currently learning Reactjs/ React Native; 
-
-- 💬 Ask me about anything, I am happy to help;
-
-### Where to find me:
-
-<a href="https://www.linkedin.com/in/guilhermelis/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
-
-<br/><br/>
-
 ## My Development Stack
 
 **Application and Data**
