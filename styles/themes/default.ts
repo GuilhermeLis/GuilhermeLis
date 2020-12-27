@@ -8,9 +8,12 @@ const defaultTheme: DefaultTheme = {
     sandyBrown: "#FC9E4F",
     redOrangeColorWheel: "#FF521B",
     xiketic: "#020122",
+    primary: "#181818",
+    secundary: "#000000",
+    textColor: "#ffffff",
   },
   fonts: {
-    regular: "Inter",
+    regular: "Roboto",
   },
 };
 

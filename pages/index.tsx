@@ -1,15 +1,20 @@
 import Head from "next/head";
 
-import { Container, Description } from "#/styles/Home";
+// import MenuBar from "@/components/MenuBar";
+import NavBar from "@/components/NavBar";
+import Carroceu from "@/components/Carroceu";
+
+import { Container } from "#/styles/Home";
 
 const Home: React.FC = () => {
   return (
     <Container>
       <Head>
-        <title>Create Next App</title>
+        <title>GL</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Description>teste</Description>
+      <NavBar />
+      <Carroceu />
     </Container>
   );
 };

@@ -1,4 +1,4 @@
-import type { AppProps /*, AppContext */ } from 'next/app'
+import type { AppProps /* , AppContext */ } from "next/app";
 import { ThemeProvider } from "styled-components";
 
 import defaultTheme from "#/styles/themes/default";
