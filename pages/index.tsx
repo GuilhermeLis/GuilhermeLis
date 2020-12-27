@@ -1,18 +1,17 @@
-import Head from 'next/head'
-import { GlobalStyle } from '#/styles/global'
+import Head from "next/head";
 
-import { Container } from '#/styles/Home'
+import { Container, Description } from "#/styles/Home";
 
-export default function Home() {
+const Home: React.FC = () => {
   return (
     <Container>
       <Head>
-        <title>
-          Create Next App</title>
+        <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <GlobalStyle/>
+      <Description>teste</Description>
     </Container>
-  )
-}
+  );
+};
+
+export default Home;
