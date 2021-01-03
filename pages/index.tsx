@@ -4,7 +4,7 @@ import Head from "next/head";
 import NavBar from "@/components/NavBar";
 import Carroceu from "@/components/Carroceu";
 
-import { Container } from "#/styles/Home";
+import { Container, FirstSection } from "#/styles/Home";
 
 const Home: React.FC = () => {
   return (
@@ -13,8 +13,10 @@ const Home: React.FC = () => {
         <title>GL</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <NavBar />
-      <Carroceu />
+      <FirstSection>
+        <NavBar />
+        <Carroceu />
+      </FirstSection>
     </Container>
   );
 };

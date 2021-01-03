@@ -2,33 +2,34 @@ import styled, { css } from "styled-components";
 import Link from "next/link";
 import Image from "next/image";
 
-export const Container = styled.nav``;
-
 type ItemProps = {
-  ifIsAImage?: boolean
-}
+  ifIsAImage?: boolean;
+};
+
+export const Container = styled.nav`
+  width: 100%;
+`;
 
 export const List = styled.ul`
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding: 30px;
+  padding: 15px 30px;
 `;
 
 export const Item = styled.li<ItemProps>`
   margin: 0 10px;
   list-style-type: none;
-  padding: 20px 5px;
+  padding: 15px 5px;
   ${({ ifIsAImage }) =>
-  ifIsAImage ? css`` :
-  css`
-    &:hover{
-      border: 1px solid white;
-    }
-  `
-  }
-
+    ifIsAImage
+      ? css``
+      : css`
+          &:hover {
+            border: 1px solid white;
+          }
+        `}
 `;
 
 export const Logo = styled(Image).attrs({
